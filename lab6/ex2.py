@@ -1,0 +1,9 @@
+aha='abcdefgh'
+print(aha[0:4])
+print(aha[3:6])
+print(aha[-1])
+print(aha[5:7])
+print(aha[3:])
+print(aha[5:8])
+print(aha[0:8:3])
+print(aha[1:4:2])

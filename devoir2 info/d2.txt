@@ -1,0 +1,27 @@
+Python 3.10.7 (tags/v3.10.7:6cc6b13, Sep  5 2022, 14:08:36) [MSC v.1933 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+======= RESTART: C:\Users\NEW\OneDrive\Bureau\ITI 1520\devoir2 info\d2.py ======
+True
+False
+False
+A
+D+
+A+
+svp entrez la note finale90
+la note alphabitique A+
+reussi
+1  3  5  7  9   
+10  8  6  4  2   
+1  3  5  7  9  11  13   
+13  11  9  7  5  3  1   
+les facteurs de 12 sont 2  3  4  6   
+la somme des facteurs est 15
+False
+les facteurs de 9 sont 3   
+la somme des facteurs est 3
+True
+16 est un carre parfait, le carre parfait de 16 est 4
+True
+15 n'est pas un carre parfait
+False
